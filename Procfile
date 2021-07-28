@@ -1,1 +1,1 @@
-web: ./webserver $PORT
+web: ./webserver -p $PORT
