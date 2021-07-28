@@ -1,0 +1,19 @@
+{
+  "name": "renderstreamingpoc",
+  "version": "1.0.0",
+  "description": "Project to test Unity WebRTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnavvachu/renderstreamingPOC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishnavvachu/renderstreamingPOC/issues"
+  },
+  "homepage": "https://github.com/vaishnavvachu/renderstreamingPOC#readme"
+}
