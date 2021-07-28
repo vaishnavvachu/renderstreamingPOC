@@ -1,1 +1,1 @@
-web: ./webserver -p $PORT
+web: chmod 777 ./webserver && ./webserver -p $PORT
